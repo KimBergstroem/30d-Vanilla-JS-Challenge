@@ -13,6 +13,7 @@ You can find more information and sign up for the course at [javascript30.com](h
 Here's a list of the challenges I've completed so far:
 
 1. [Day 1 - JavaScript Drum Kit](Day1-DrumKit/)
+2. [Day 2 - JS and CSS Clock](Day2/)
 
 _(This list will be updated as I progress through the challenges.)_
 
