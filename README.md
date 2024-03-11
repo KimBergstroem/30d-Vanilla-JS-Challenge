@@ -14,6 +14,8 @@ Here's a list of the challenges I've completed so far:
 
 1. [Day 1 - JavaScript Drum Kit](Day1-DrumKit/)
 2. [Day 2 - JS and CSS Clock](Day2/)
+3. [Day 3 - CSS Variables](Day3/)
+4. [Day 4 - Array Cardio Day 1](Day4/)
 
 _(This list will be updated as I progress through the challenges.)_
 
