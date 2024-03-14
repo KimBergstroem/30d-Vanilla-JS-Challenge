@@ -16,6 +16,8 @@ Here's a list of the challenges I've completed so far:
 2. [Day 2 - JS and CSS Clock](Day2/)
 3. [Day 3 - CSS Variables](Day3/)
 4. [Day 4 - Array Cardio Day 1](Day4/)
+5. [Day 5 - Flex Panel Gallery](Day5/)
+6. [Day 6 - Fetch and filter cities](Day6/)
 
 _(This list will be updated as I progress through the challenges.)_
 
