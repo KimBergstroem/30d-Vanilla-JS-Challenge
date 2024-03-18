@@ -18,6 +18,7 @@ Here's a list of the challenges I've completed so far:
 4. [Day 4 - Array Cardio Day 1](Day4/)
 5. [Day 5 - Flex Panel Gallery](Day5/)
 6. [Day 6 - Fetch and filter cities](Day6/)
+7. [Day 7 - Array Cardio Day 2](Day7/)
 
 _(This list will be updated as I progress through the challenges.)_
 
