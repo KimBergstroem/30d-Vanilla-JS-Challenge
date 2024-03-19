@@ -19,6 +19,7 @@ Here's a list of the challenges I've completed so far:
 5. [Day 5 - Flex Panel Gallery](Day5/)
 6. [Day 6 - Fetch and filter cities](Day6/)
 7. [Day 7 - Array Cardio Day 2](Day7/)
+8. [Day 8 - Fun with HTML5 Canvas](Day8/)
 
 _(This list will be updated as I progress through the challenges.)_
 
