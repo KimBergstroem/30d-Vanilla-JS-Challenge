@@ -21,6 +21,7 @@ Here's a list of the challenges I've completed so far:
 7. [Day 7 - Array Cardio Day 2](Day7/)
 8. [Day 8 - Fun with HTML5 Canvas](Day8/)
 9. [Day 9 - Dev Tools Domination](Day9/)
+10. [Day 10 - Hold Shift and Check Checkboxes](Day10/)
 
 _(This list will be updated as I progress through the challenges.)_
 
