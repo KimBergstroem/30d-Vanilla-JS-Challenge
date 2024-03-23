@@ -22,6 +22,7 @@ Here's a list of the challenges I've completed so far:
 8. [Day 8 - Fun with HTML5 Canvas](Day8/)
 9. [Day 9 - Dev Tools Domination](Day9/)
 10. [Day 10 - Hold Shift and Check Checkboxes](Day10/)
+11. [Day 11 - Custom Video Player](Day11/)
 
 _(This list will be updated as I progress through the challenges.)_
 
