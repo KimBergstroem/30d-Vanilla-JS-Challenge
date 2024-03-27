@@ -23,6 +23,10 @@ Here's a list of the challenges I've completed so far:
 9. [Day 9 - Dev Tools Domination](Day9/)
 10. [Day 10 - Hold Shift and Check Checkboxes](Day10/)
 11. [Day 11 - Custom Video Player](Day11/)
+12. [Day 12 - Key Sequence Detection](Day12/)
+13. [Day 13 - Slide in on Scroll](Day13/)
+14. [Day 14 - JavaScript References VS Copying](Day14/)
+15. [Day 15 - LocalStorage](Day15/)
 
 _(This list will be updated as I progress through the challenges.)_
 
