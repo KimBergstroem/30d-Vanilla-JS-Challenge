@@ -28,6 +28,7 @@ Here's a list of the challenges I've completed so far:
 14. [Day 14 - JavaScript References VS Copying](Day14/)
 15. [Day 15 - LocalStorage](Day15/)
 16. [Day 16 - Mouse Move Shadow](Day16/)
+17. [Day 17 - Sort Without Articles](Day17/)
 
 _(This list will be updated as I progress through the challenges.)_
 
