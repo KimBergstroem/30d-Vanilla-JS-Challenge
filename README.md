@@ -29,6 +29,7 @@ Here's a list of the challenges I've completed so far:
 15. [Day 15 - LocalStorage](Day15/)
 16. [Day 16 - Mouse Move Shadow](Day16/)
 17. [Day 17 - Sort Without Articles](Day17/)
+18. [Day 18 - Adding Up Times with Reduce](Day18/)
 
 _(This list will be updated as I progress through the challenges.)_
 
