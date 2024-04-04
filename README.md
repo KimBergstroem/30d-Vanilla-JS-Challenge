@@ -30,6 +30,7 @@ Here's a list of the challenges I've completed so far:
 16. [Day 16 - Mouse Move Shadow](Day16/)
 17. [Day 17 - Sort Without Articles](Day17/)
 18. [Day 18 - Adding Up Times with Reduce](Day18/)
+19. [Day 19 - Webcam Fun](Day19/)
 
 _(This list will be updated as I progress through the challenges.)_
 
