@@ -31,6 +31,10 @@ Here's a list of the challenges I've completed so far:
 17. [Day 17 - Sort Without Articles](Day17/)
 18. [Day 18 - Adding Up Times with Reduce](Day18/)
 19. [Day 19 - Webcam Fun](Day19/)
+20. [Day 20 - Speech Detection](Day20/)
+21. [Day 21 - Geolocation](Day21/)
+22. [Day 22 - Follow Along Link Highlighter](Day22/)
+23. [Day 23 - Speech Synthesis](Day23/)
 
 _(This list will be updated as I progress through the challenges.)_
 
