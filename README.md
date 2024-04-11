@@ -35,6 +35,7 @@ Here's a list of the challenges I've completed so far:
 21. [Day 21 - Geolocation](Day21/)
 22. [Day 22 - Follow Along Link Highlighter](Day22/)
 23. [Day 23 - Speech Synthesis](Day23/)
+24. [Day 24 - Sticky Nav](Day24/)
 
 _(This list will be updated as I progress through the challenges.)_
 
