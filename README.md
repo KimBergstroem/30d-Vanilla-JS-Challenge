@@ -36,6 +36,9 @@ Here's a list of the challenges I've completed so far:
 22. [Day 22 - Follow Along Link Highlighter](Day22/)
 23. [Day 23 - Speech Synthesis](Day23/)
 24. [Day 24 - Sticky Nav](Day24/)
+25. [Day 25 - Event Capture, Propagation, Bubbling and Once](Day25/)
+26. [Day 26 - Stripe Follow Along Nav](Day26/)
+27. [Day 27 - Click and Drag](Day27/)
 
 _(This list will be updated as I progress through the challenges.)_
 
